@@ -1,10 +1,3 @@
-/*
-Name: Sydney Richardson
-Lab #1
-Date: 1/10/2019
-Description: This program takes an input currency and amount and converts it
-*/
-
 echo "# Currency-Calculator" >> README.md
 git init
 git add README.md
